@@ -9,7 +9,7 @@ namespace AutoFFToggle
 		public override string Name => nameof(AutoFFToggle);
 		public override string Author => "SandyJP";
 
-        public override Version Version => new Version(2, 3, 0);
+        public override Version Version => new Version(2, 3, 2);
         public override Version RequiredExiledVersion => new Version(5, 3, 0);
 
         public EventHandler Handler;
